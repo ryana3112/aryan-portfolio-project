@@ -1,73 +1,117 @@
-# Welcome to your Lovable project
+# Aryan Sharma Portfolio
 
-## Project info
+A modern personal portfolio built using React, TypeScript, Vite, and Tailwind CSS.
 
-**URL**: https://lovable.dev/projects/fbd54321-7c82-4ec8-b8de-34a54e352b99
+## 🚀 Tech Stack
 
-## How can I edit this code?
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- EmailJS
+- React Router
+- Lucide React
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📂 Project Structure
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fbd54321-7c82-4ec8-b8de-34a54e352b99) and start prompting.
+```
+src
+├── assets
+├── components
+├── hooks
+├── lib
+├── pages
+├── App.tsx
+├── main.tsx
+└── index.css
 
-Changes made via Lovable will be committed automatically to this repo.
+public
+package.json
+vite.config.ts
+tsconfig.json
+```
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📦 Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Clone the repository
 
-Follow these steps:
+```bash
+git clone https://github.com/YOUR_USERNAME/aryan-portfolio.git
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Move into the project
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+cd aryan-portfolio
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+Install dependencies
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will be available at
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🏗️ Build for Production
 
-## What technologies are used for this project?
+```bash
+npm run build
+```
 
-This project is built with:
+Preview production build
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```bash
+npm run preview
+```
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/fbd54321-7c82-4ec8-b8de-34a54e352b99) and click on Share -> Publish.
+## ✨ Features
 
-## Can I connect a custom domain to my Lovable project?
+- Responsive Design
+- Dark Theme UI
+- Smooth Scrolling Navigation
+- Animated Hero Section
+- Skills Showcase
+- Project Portfolio
+- Contact Form with EmailJS
+- Resume Download
+- SEO Friendly
+- Mobile Friendly
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📧 Contact
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Aryan Sharma**
+
+Email: your-email@example.com
+
+LinkedIn:
+https://linkedin.com/in/YOUR_USERNAME
+
+GitHub:
+https://github.com/YOUR_USERNAME
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
