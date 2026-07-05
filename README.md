@@ -1,52 +1,65 @@
 # Aryan Sharma Portfolio
 
-A modern personal portfolio built using React, TypeScript, Vite, and Tailwind CSS.
+A modern and responsive personal portfolio showcasing my projects, technical skills, and experience as an aspiring Software Engineer.
 
-## 🚀 Tech Stack
+## 🌐 Live Demo
+
+https://aryan-portfolio-project.vercel.app/
+
+---
+
+## 🚀 Built With
 
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 - EmailJS
-- React Router
+- React Router DOM
 - Lucide React
 
 ---
 
-## 📂 Project Structure
+## ✨ Features
+
+- Responsive Design
+- Dark Theme
+- Smooth Scrolling
+- Interactive UI
+- Project Showcase
+- Resume Download
+- Contact Form (EmailJS)
+- SEO Optimized
+- Fast Performance
+
+---
+
+## 📁 Folder Structure
 
 ```
-src
-├── assets
-├── components
-├── hooks
-├── lib
-├── pages
-├── App.tsx
-├── main.tsx
-└── index.css
+src/
+ ├── assets/
+ ├── components/
+ ├── hooks/
+ ├── lib/
+ ├── pages/
+ ├── App.tsx
+ ├── main.tsx
+ └── index.css
 
-public
+public/
 package.json
 vite.config.ts
-tsconfig.json
 ```
 
 ---
 
-## 📦 Installation
+## 💻 Getting Started
 
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aryan-portfolio.git
-```
-
-Move into the project
-
-```bash
-cd aryan-portfolio
+git clone https://github.com/ryana3112/aryan-portfolio.git
 ```
 
 Install dependencies
@@ -55,63 +68,32 @@ Install dependencies
 npm install
 ```
 
-Start the development server
+Run locally
 
 ```bash
 npm run dev
 ```
 
-The application will be available at
-
-```
-http://localhost:5173
-```
-
----
-
-## 🏗️ Build for Production
+Build
 
 ```bash
 npm run build
 ```
 
-Preview production build
-
-```bash
-npm run preview
-```
-
 ---
 
-## ✨ Features
-
-- Responsive Design
-- Dark Theme UI
-- Smooth Scrolling Navigation
-- Animated Hero Section
-- Skills Showcase
-- Project Portfolio
-- Contact Form with EmailJS
-- Resume Download
-- SEO Friendly
-- Mobile Friendly
-
----
-
-## 📧 Contact
+## 📬 Contact
 
 **Aryan Sharma**
 
-Email: your-email@example.com
+📧 Email: aryan.theceo@gmail.com
 
-LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+🐙 GitHub: https://github.com/ryana3112
 
-GitHub:
-https://github.com/YOUR_USERNAME
+💼 LinkedIn: https://www.linkedin.com/in/aryan-sharma-174b1a264/
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
